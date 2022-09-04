@@ -1,0 +1,22 @@
+{
+  "name": "electron-4",
+  "version": "1.0.0",
+  "description": "Project from Electron course",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzakotim/electron-4.git"
+  },
+  "author": "Timur Uzakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzakotim/electron-4/issues"
+  },
+  "homepage": "https://github.com/uzakotim/electron-4#readme",
+  "devDependencies": {
+    "electron": "^4.1.4"
+  }
+}
